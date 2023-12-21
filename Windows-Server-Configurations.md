@@ -1,4 +1,4 @@
-# Windows Server Configurations
+# Windows Server Configurations SOP
 ## Purpose:
 - To provide a standardized process for the configuration of Windows Servers.
 ## Scope:
