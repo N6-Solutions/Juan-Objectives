@@ -13,5 +13,3 @@ This repo outlines the objectives for the Ops 301: File Shares, Backup Solution,
   - Network design
   - Configurations
   - Virtual machine deployments
-  - Scripting details
-  - IT onboarding policy  
