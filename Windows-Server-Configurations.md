@@ -52,6 +52,6 @@
 - Permissions: Permissions refer to the rules or settings that dictate what actions users or system processes are allowed or denied.
 - AD DC: Active Directory Domain Controller is a server that manages security authentication requests and enforces security policies within the Active Directory infrastructure.
 - Windows Server: Windows Server is designed to operate on server hardware and provide essential services and roles for networking, communication, security, and data storage within an enterprise environment.  
-Revision History:
-Version 1.0 (Author: Juan Maldonado, Date: 12.20.2023)
+## Revision History:
+- Version 1.0 (Author: Juan Maldonado, Date: 12.20.2023)
 
